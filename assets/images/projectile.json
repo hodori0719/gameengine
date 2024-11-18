@@ -1,0 +1,14 @@
+{
+"filepath":"./images/assets/projectile.bmp",
+  "format":{
+    	"width"		: 64,
+    	"height"		: 64,
+    	"tileWidth"	: 16,
+    	"tileHeight"	: 32
+  },
+  "frames":{
+		"down": [4,5,6,7],
+		"idle": [0,1,2,3]
+  }
+}
+

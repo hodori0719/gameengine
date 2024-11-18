@@ -1,0 +1,16 @@
+{
+	"authors": [
+		"mike"
+	],
+	"copyright": "Copyright © 2024, mike",
+	"dependencies": {
+		"bindbc-sdl": "~>1.2.4"
+	},
+	"versions": [
+		"SDL_TTF",
+		"SDL_Mixer"
+	],
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "prog_sdl"
+}

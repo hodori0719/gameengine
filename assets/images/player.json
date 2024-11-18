@@ -1,0 +1,14 @@
+{
+	"filepath":"./images/assets/player.bmp",
+	"format":{
+		"width"		: 128,
+		"height"		: 128,
+		"tileWidth"	: 32,
+		"tileHeight"	: 32
+	},
+	"frames":{
+		"idle": [8,9,10,11],
+		"left": [4,5,6,7],
+		"right": [12,13,14,15]
+	}
+}

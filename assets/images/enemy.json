@@ -1,0 +1,15 @@
+{
+    "filepath":"./images/assets/enemy.bmp",
+    "format":{
+        "width"		: 128,
+        "height"		: 28,
+        "tileWidth"	: 32,
+        "tileHeight"	: 28
+    },
+    "frames":{
+        "left": [0,1,2,3],
+        "right": [0,1,2,3],
+        "idle": [0,1,2,3]
+    }
+}
+    
